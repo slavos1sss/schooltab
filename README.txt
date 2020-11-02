@@ -8,6 +8,7 @@
 При каждом запуске приложение
 генерирует новый набор примеров и
 перезаписывает файл "Примеры.txt".
+Работает БЕЗ УСТАНОВКИ на компьютер.
 https://github.com/slavos1sss/schooltab/raw/master/Примеры3класс.exe - ссылка
 https://github.com/slavos1sss/schooltab/blob/master/Примеры3класс.py - исходный код
 https://github.com/slavos1sss/schooltab/blob/master/README.txt Описание (файл readme)
