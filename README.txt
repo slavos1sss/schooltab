@@ -5,6 +5,9 @@
 записывает их
 в текстовый файл "Примеры.txt"
 который можно распечатать.
+При каждом запуске приложение
+генерирует новый набор примеров и
+перезаписывает файл "Примеры.txt".
 https://github.com/slavos1sss/schooltab/raw/master/Примеры3класс.exe - ссылка
 https://github.com/slavos1sss/schooltab/blob/master/Примеры3класс.py - исходный код
 https://github.com/slavos1sss/schooltab/blob/master/README.txt Описание (файл readme)
