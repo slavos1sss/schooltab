@@ -1,6 +1,9 @@
-Приложение для создания примеров для 3 класса по таблице умножения.
-Приложение создает в случайном порядке 40 примеров на умножение и деление и
-записывает их в текстовый файл "Примеры.txt".
+Приложение для создания примеров для
+3 класса по таблице умножения.
+Приложение создает в случайном порядке
+40 примеров на умножение и деление и
+записывает их
+в текстовый файл "Примеры.txt".
 https://github.com/slavos1sss/schooltab/raw/master/Примеры3класс.exe - ссылка
 https://github.com/slavos1sss/schooltab/blob/master/Примеры3класс.py - исходный код
-https://github.com/slavos1sss/schooltab/blob/master/README.txt Описание (файл readme.txt)
+https://github.com/slavos1sss/schooltab/blob/master/README.txt Описание (файл readme)
